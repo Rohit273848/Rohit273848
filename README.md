@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👨‍💻 About Me :<br><br>🔭 I’m currently working on  <br>Building a full-stack Instagram Clone (MERN Stack)<br><br>👯 I’m looking to collaborate on  <br>Web Development and Open Source Projects<br><br>🤝 I’m looking for help with  <br>Advanced Backend Architecture and Scalable Systems<br><br>🌱 I’m currently learning  <br>Data Structures & Algorithms + Data Science + Machine Learning<br><br>💬 Ask me about  <br>JavaScript, Node.js, MongoDB, React, and Backend Development<br><br>⚡ Fun fact  <br>I enjoy turning ideas into real-world projects and learning by building 🚀
 
 
