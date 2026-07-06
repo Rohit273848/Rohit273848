@@ -13,18 +13,17 @@ I'm a 3rd Year B.Tech Student passionate about building modern web applications 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Actively%20Building-blue?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Repos-39%2B-informational?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Followers-2%2B-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Chh.%20Sambhaji%20Nagar-lightgrey?style=for-the-badge"/>
 </div>
 
-- 🔭 Working on: **An E-commerce Microservices Backend with Python & Docker** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **Advanced Distributed Systems Patterns & Cloud Security** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source Backend Projects & Algorithmic Challenges**
-- 💬 Ask me about: **Backend Development (Python, Java), RESTful APIs, DSA, or System Design basics** <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact: **I love unraveling complex algorithmic puzzles over a cup of chai!** <!-- TODO: Add a fun fact -->
+* 🔭 Working on: **Synora – AI-Powered Second Brain & Productivity Platform**
+* 🌱 Learning: **Core Java, Data Structures & Algorithms, React, Node.js, Express.js, MongoDB, Docker, System Design, Machine Learning & LLMs**
+* 👯 Looking to collaborate on: **MERN Stack Projects, AI/ML Projects, Open Source, and DSA**
+* 💬 Ask me about: **Java, MERN Stack, Backend Development, Data Structures & Algorithms, and AI**
+* ⚡ Fun fact: **I enjoy solving algorithmic puzzles and learn best by building real-world projects.**
 
 ---
+
 
 ## 🛠️ My Technology Ecosystem
 
