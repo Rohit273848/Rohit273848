@@ -23,7 +23,7 @@ My journey is focused on developing real-world projects, writing clean and effic
 * ⚡ Fun fact: **I enjoy solving algorithmic puzzles and learn best by building real-world projects.**
 
 ---
-## 🛠️ My Technology Ecosystem
+##🛠️ My Technology Ecosystem
 
 My toolkit is continuously growing as I build projects, solve DSA problems, and explore modern software development and AI technologies.
 
