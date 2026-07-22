@@ -133,7 +133,7 @@ Here are some of the projects I'm particularly proud of:
 - 📜 **HackerRank 5-star in Python & Java (DSA)**
 - 📚 **Coursera: Building Scalable Java Microservices with Spring Boot**
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 - 🚀 Contribute to 5+ significant open source projects
 - 📚 Master system design principles for large-scale applications
 - 🌟 Develop a full-stack project utilizing a modern cloud platform (e.g., AWS, GCP)
