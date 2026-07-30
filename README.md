@@ -3,7 +3,6 @@
 </div>
 
 # 👨‍💻 Rohit Mahajan | MERN Stack Developer & AI Enthusiast
-
 ### 🚀 Building scalable applications, solving problems, and learning every day
 I'm a final Year B.Tech Student passionate about building modern web applications with the MERN stack, exploring Artificial Intelligence, and mastering Data Structures and Algorithms. 
 My journey is focused on developing real-world projects, writing clean and efficient code, and continuously improving my skills to become a well-rounded software engineer.
